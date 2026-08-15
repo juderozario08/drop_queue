@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  total_inventory: 1
+  reserved_inventory: 1
+  price_cents: 1
+  drop_time: 2026-08-14 21:20:22
+
+two:
+  title: MyString
+  total_inventory: 1
+  reserved_inventory: 1
+  price_cents: 1
+  drop_time: 2026-08-14 21:20:22
